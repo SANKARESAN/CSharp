@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBmzUqd++1Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sankaresan.s\\source\\repos\\StudentApp\\StudentApp\\StudentApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sankaresan.s\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.101\\microsoft.net.sdk.compilers.toolset.9.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
